@@ -1,0 +1,48 @@
+.bg-light{
+    background-color: aqua !important;
+}
+.navbar-nav{
+    position: absolute;
+    right: 0px;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(19, 19, 236) !important;
+}
+.section-2{
+    margin-top: 10px;
+}
+.section-3{
+    height: 400px;
+    background-color: lightblue;
+}
+.accordion{
+    padding: 10px;
+    position: relative;
+    top:30px;
+}
+.faq-title{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-family: revert;
+    text-shadow: 2px 2px 5px black;
+    color: white;
+}
+.section-4{
+    background-color: rgb(123, 211, 153);
+    height: 400px;
+}
+.sec4-form{
+    position: relative;
+    top: 50px;
+}
+.contact-title{
+    text-align: center;
+    color: rgb(9, 62, 84);
+}
+.form-control{
+    box-shadow: 1px 1px 5px black, -1px -1px 5px white;
+
+}
